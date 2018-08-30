@@ -29,6 +29,8 @@ https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dange
 
 https://hackernoon.com/solidity-unit-tests-are-worth-280mil-and-counting-9e3d8083c5a7
 
+https://dzone.com/articles/blockwatch-tools-for-working-with-solidity
+
 #### Code static anlynasis
 
 https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis

@@ -17,6 +17,8 @@ http://118.190.96.120/website/cicd/
 
 ## Trusted by the best
 
+http://118.190.3.169:49001/job/solidity-jenkins-template/
+
 ## Our supporters
 
 

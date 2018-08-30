@@ -17,7 +17,7 @@ http://118.190.96.120/website/cicd/
 
 ## Trusted by the best
 
-http://118.190.3.169:49001/job/solidity-jenkins-template/
+http://118.190.3.169:8090/job/solidity-jenkins-template/
 
 ## Our supporters
 
@@ -47,3 +47,7 @@ https://truffleframework.com/tutorials/solidity-unit-tests
 https://ethereum.stackexchange.com/questions/607/how-to-unit-test-smart-contracts
 
 https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868
+
+#### Security analysis tool for Ethereum smart contracts:
+
+https://github.com/ConsenSys/mythril

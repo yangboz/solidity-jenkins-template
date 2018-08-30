@@ -57,7 +57,7 @@ https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu
 
 https://github.com/ConsenSys/mythril
 
-#### Unit test
+#### Unit test for Solidity
 
 https://truffleframework.com/tutorials/solidity-unit-tests
 

@@ -44,6 +44,8 @@ https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu
 
 https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868
 
+https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
+
 #### Security analysis tool for Ethereum smart contracts:
 
 https://github.com/ConsenSys/mythril

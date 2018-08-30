@@ -7,7 +7,7 @@ Jenkins,PMD,CPD,CheckStyle,FindBugs,JasperReport...
 
 ### Overview
 
-![Screenshot of "JenkinsJavaOverview"](https://raw.githubusercontent.com/yangboz/java-jenkins-template/master/Jenkin-Java-overview.png)
+![Screenshot of "JenkinsJavaOverview"](https://raw.githubusercontent.com/yangboz/solidity-jenkins-template/master/Jenkin-Solidity-overview.png)
 
 
 ## LandingPage

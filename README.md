@@ -43,3 +43,5 @@ https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+with+Docker
 https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu
 
 https://truffleframework.com/tutorials/solidity-unit-tests
+
+https://ethereum.stackexchange.com/questions/607/how-to-unit-test-smart-contracts

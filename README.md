@@ -41,3 +41,5 @@ https://solidity.readthedocs.io/en/develop/style-guide.html
 https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+with+Docker
 
 https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu
+
+https://truffleframework.com/tutorials/solidity-unit-tests

@@ -22,7 +22,24 @@ http://118.190.3.169:8090/job/solidity-jenkins-template/
 ## Our supporters
 
 
+
 ### References
+
+https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868
+
+https://hackernoon.com/solidity-unit-tests-are-worth-280mil-and-counting-9e3d8083c5a7
+
+#### Code static anlynasis
+
+https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
+
+https://github.com/protofire/solhint
+
+https://github.com/duaraghav8/Solium
+
+https://solidity.readthedocs.io/en/develop/style-guide.html
+
+#### Jenkins plugins
 
 https://github.com/yangboz/java-jenkins-template
 
@@ -32,19 +49,9 @@ https://dzone.com/articles/blockwatch-tools-for-working-with-solidity
 
 https://plugins.jetbrains.com/plugin/9475-intellij-solidity
 
-https://github.com/protofire/solhint
-
-https://github.com/duaraghav8/Solium
-
-https://solidity.readthedocs.io/en/develop/style-guide.html
-
 https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+with+Docker
 
 https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu
-
-https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868
-
-https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
 
 #### Security analysis tool for Ethereum smart contracts:
 

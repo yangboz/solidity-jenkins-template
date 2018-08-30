@@ -35,3 +35,5 @@ https://github.com/protofire/solhint
 https://github.com/duaraghav8/Solium
 
 https://solidity.readthedocs.io/en/develop/style-guide.html
+
+https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+with+Docker

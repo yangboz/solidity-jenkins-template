@@ -24,6 +24,8 @@ http://118.190.96.120/website/cicd/
 
 https://github.com/yangboz/java-jenkins-template
 
+https://github.com/ConsenSys/smart-contract-best-practices
+
 https://dzone.com/articles/blockwatch-tools-for-working-with-solidity
 
 https://plugins.jetbrains.com/plugin/9475-intellij-solidity
@@ -31,3 +33,4 @@ https://plugins.jetbrains.com/plugin/9475-intellij-solidity
 https://github.com/protofire/solhint
 
 https://github.com/duaraghav8/Solium
+
